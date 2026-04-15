@@ -15,8 +15,15 @@
       ];
 
       perSystem =
-        { pkgs, ... }:
+        { system, ... }:
         let
+          pkgs = import inputs.nixpkgs {
+            inherit system;
+            config = {
+              allowUnfree = true;
+              android_sdk.accept_license = true;
+            };
+          };
           androidComposition = pkgs.androidenv.composeAndroidPackages {
             buildToolsVersions = [ "34.0.0" ];
             platformVersions = [ "34" ];
