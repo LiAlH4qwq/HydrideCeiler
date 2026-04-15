@@ -2,25 +2,25 @@
 
 <img src="\imgs\icon.webp" width="160" height="160" style="display: block; margin: 0 auto;" alt="icon" />
 
-# HyperCeiler
+# HydrideCeiler
 
 ### Make HyperOS Great Again!
 
-[简体中文](/README.md)&nbsp;&nbsp;|&nbsp;&nbsp;[繁體中文](/README_zh-HK.md)&nbsp;&nbsp;|&nbsp;&nbsp;English&nbsp;&nbsp;|&nbsp;&nbsp;[Українська](/README_uk_UA.md)&nbsp;&nbsp;|&nbsp;&nbsp;[Português (Brasil)](/README_pt-BR.md)
+[简体中文](/README.md)&nbsp;&nbsp;|&nbsp;&nbsp;English
 
 </div>
 
 ## Currently supported versions
 
-HyperOS for Android 14-15
+HyperOS 2 for Android 14
 
 ## Pre-use instructions
 
-Please enable HyperCeiler in [LSPosed](https://github.com/LSPosed/LSPosed/releases), then enable the corresponding feature in the HyperCeiler app and restart the scope (root access required).
+Please enable HydrideCeiler in [LSPosed](https://github.com/LSPosed/LSPosed/releases), then enable the corresponding feature in the HydrideCeiler app and restart the scope (root access required).
 
 This module <b>does not support</b> `third-party Xiaomi HyperOS ROMs with a lot of modifications`, `system software with a lot of modifications`, and some `international Xiaomi HyperOS ROMs`.
 
-Currently, HyperCeiler is adapted for Xiaomi HyperOS 2.0.200 mobile devices based on Android 15. The coverage isn't very comprehensive and requires ongoing testing and improvements.
+Currently, HydrideCeiler is adapted for Xiaomi HyperOS 2.0.12 mobile devices based on Android 14. The coverage isn't very comprehensive and requires ongoing testing and improvements.
 
 Before submitting feedback, please pay attention to whether there is already the same feedback to avoid causing trouble to developers. Spending the same energy reading the same feedback is a waste of time.
 
@@ -29,8 +29,6 @@ HyperCeiler has stopped maintaining MIUI ROMs for Android 11-13 and HyperOS 1.0 
 > For MIUI ROMs on Android 11-12, please use [this version](https://github.com/ReChronoRain/Cemiuiler/releases/tag/1.3.130).
 >
 > For MIUI ROMs on Android 13 and HyperOS 1.0 ROM, please use [this version](https://github.com/Xposed-Modules-Repo/com.sevtinge.hyperceiler/releases/download/3866-2.5.156_20250118/HyperCeiler_2.5.156_20250118_3866_release_miui.apk).
->
-> Android 14's HyperOS 1.0/2.0 has been archived, and support for Android 14 will be removed starting from version 2.6.162.
 
 ## Project planning
 
@@ -127,7 +125,7 @@ You can provide translations for the HyperCeiler project [here](https://crwd.in/
 
 ## Thanks!
 
-> <b>HyperCeiler</b> uses some or all of the following projects, thanks to the developers of these projects for their support (in no particular order).
+> <b>HydrideCeiler</b> uses some or all of the following projects, thanks to the developers of these projects for their support (in no particular order).
 
 - [「Accompanist」 by Android Open Source Project, Google Inc.](https://google.github.io/accompanist)
 - [「Android」 by Android Open Source Project, Google Inc.](https://source.android.google.cn/license)
