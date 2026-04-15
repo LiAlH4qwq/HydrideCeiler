@@ -127,6 +127,7 @@ You can provide translations for the HyperCeiler project [here](https://crwd.in/
 
 > <b>HydrideCeiler</b> uses some or all of the following projects, thanks to the developers of these projects for their support (in no particular order).
 
+- [「HyperCeiler」 by Re.chronoRain](https://github.com/ReChronoRain/HyperCeiler)
 - [「Accompanist」 by Android Open Source Project, Google Inc.](https://google.github.io/accompanist)
 - [「Android」 by Android Open Source Project, Google Inc.](https://source.android.google.cn/license)
 - [「AndroidHiddenApiBypass」 by LSPosed](https://github.com/LSPosed/AndroidHiddenApiBypass)
